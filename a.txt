@@ -1,1 +1,3 @@
 Hello world
+
+I define the class attributes to this a.txt file
